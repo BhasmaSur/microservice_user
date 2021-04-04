@@ -1,1 +1,2 @@
 insert into users_table (user_id,name,user_name,email,password,roles,active) values(1,'mradul mishra','Bhasmasur','mradul@gmail.com','mradul','USER',1);
+insert into users_table (user_id,name,user_name,email,password,roles,active) values(1,'rahul tiwari','Bhasmasur','rahul@gmail.com','rahul','USER',1);
